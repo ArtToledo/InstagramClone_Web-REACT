@@ -20,4 +20,4 @@
      Aprender como utilizar o React para reaproveitamento de códigos, criando sites personalizados aplicando os mesmos conceitos de HTML, CSS e JavaScript.
      
 
-![Gift do projeto](https://github.com/ArtToledo/InstagramClone_Web-REACT/blob/master/InstaCloneReact.gif)
+![Gift do projeto](https://github.com/ArtToledo/InstagramClone_Web-REACT/blob/master/InstaCloneReactOriginal.gif)
